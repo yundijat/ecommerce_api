@@ -2,10 +2,10 @@
 
 
 ***Add the following variables the .env file
-API_URL 
-SECRET  
-PORT 
-CONECTION_STRING 
+API_URL, 
+SECRET,
+PORT,
+CONECTION_STRING
 
 
 ***manually Change one of the user isAdmin to True in order to access some protected route
